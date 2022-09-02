@@ -2,4 +2,4 @@
 
 Hello hope this works!
 
-![Here's a test image](/IMAGES/test.png)
+![Here's a test image](IMAGES/test.png)
