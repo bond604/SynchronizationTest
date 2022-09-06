@@ -2,4 +2,8 @@
 
 Hello hope this works!
 
-![Here's a test image](IMAGES/test.png)
+This one shouldn't work:
+![Wrong casing](IMAGES/test.png)
+
+This one should!:
+![Right casing](images/apples.png)
