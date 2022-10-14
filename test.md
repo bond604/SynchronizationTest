@@ -7,3 +7,5 @@ This one shouldn't work:
 
 This one should!:
 ![Right casing](images/apples.png)
+
+> [!VIDEO /images/sample-mp4-file-small.mp4]
